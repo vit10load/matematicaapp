@@ -1,4 +1,4 @@
-# Projeto De Matemática - Área Votada para educação.
+# Projeto De MatemÃ¡tica - Ãrea Voltada para educaÃ§Ã£o.
 
-Implementação inicial de um WebApp para resoluções de questões
-de matemática.
+ImplementaÃ§Ã£o inicial de um WebApp para resoluÃ§Ãµes de questÃµes
+de matemÃ¡tica.
